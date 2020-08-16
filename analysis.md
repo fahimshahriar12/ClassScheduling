@@ -1,3 +1,10 @@
+# Group Members
+1.Fahim Shahriar (1734075)
+
+2.Shanjan Mahmud Reaz (1738471)
+
+3.Fahim Moatafa Jamal (1734437)
+
 # Introduction
 
 1. Shortest Job First(SJF) Scheduling : Shortest Job First scheduling works on the process with the shortest burst time or duration first. This is the best approach to minimize waiting time.his scheduling algorithm is optimal if all the jobs/processes are available at the same time. To successfully implement it, the burst time/duration time of the processes should be known to the processor in advance, which is practically not feasible all the time.
